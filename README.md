@@ -114,6 +114,7 @@ Do **not** close the tab or navigate away while the script is running.
 3. It selects the **Delete** option from the menu.
 4. It clicks the **Delete** confirmation button in the dialog that appears.
 5. It repeats this process for every conversation until none remain.
+6. To stop: Run location.reload() in the console or reload the tab
 
 ---
 
